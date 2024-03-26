@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="40dp"
+    tools:context=".SkillsActivity">
+
+    <TextView
+        android:id="@+id/skillTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/programming"
+        android:textStyle="bold"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/skillDescription1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/i_have_strong_programming_skills_particularly_in_languages_such_as_java_python_and_javascript_i_am_experienced_in_developing_web_applications_using_frameworks_like_django_and_node_js_additionally_i_have_knowledge_of_data_structures_algorithms_and_object_oriented_programming_concepts"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/skillDescription2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_1_learning_in_html_css_and_javascript"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/skillDescription3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/_2_still_learning_python_programming"
+        android:textSize="16sp" />
+    <!-- Add more TextView elements for additional skills -->
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyProfile</string>
+    <string name="about_me">About Me</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="skills">Skills</string>
+    <string name="resume">Resume</string>
+    <string name="website">Website</string>
+    <string name="uitm_website">UITM Website</string>
+    <string name="istudent_portal">iStudent Portal</string>
+    <string name="i_have_strong_programming_skills_particularly_in_languages_such_as_java_python_and_javascript_i_am_experienced_in_developing_web_applications_using_frameworks_like_django_and_node_js_additionally_i_have_knowledge_of_data_structures_algorithms_and_object_oriented_programming_concepts">I have strong programming skills, particularly in languages such as Java, Python, and JavaScript. I am experienced in developing web applications using frameworks like Django and Node.js. Additionally, I have knowledge of data structures, algorithms, and object-oriented programming concepts.</string>
+    <string name="_1_learning_in_html_css_and_javascript">1. Learning in html,css and javascript</string>
+    <string name="_2_still_learning_python_programming">2. Still Learning python programming</string>
+    <string name="programming">Programming</string>
+    <string name="my_hobbies">My Hobbies</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="home">home</string>
+</resources>
